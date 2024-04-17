@@ -1,1 +1,1 @@
-Modelowanie danych przypomina starotestamentowego Boga: wiele zasad i brak litości.
+# Modelowanie danych przypomina starotestamentowego Boga: wiele zasad i brak litości.
